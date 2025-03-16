@@ -67,8 +67,28 @@ From the **Quantity vs. Weekdays** chart:
 🎉 **Evening sales** may also be driven by **social gatherings and group orders**.  
 
 ---
+# Key Insights
 
-## 🚀 Conclusion  
+1️⃣ **Top Revenue-Generating Pizza:**  
+   The Thai Chicken Pizza leads with $28,323.75 in sales.
+
+2️⃣ **Most Ordered Pizza:**  
+   The Classic Deluxe Pizza is the most ordered, with 2,453 orders.
+
+3️⃣ **Peak Sales Hours:**  
+   Highest orders occur between **12 PM - 2 PM** and **5 PM - 8 PM**.
+
+4️⃣ **Busiest Sales Days:**  
+   **Friday** (3.5K orders) sees the highest sales, while **Sunday** (2.6K orders) is the lowest.
+
+5️⃣ **Top 10 Pizzas Impact:**  
+   The top 10 best-selling pizzas contribute ~26.87% of total revenue.
+
+---
+
+## 🚀 Conclusion 
+
+From the data, it is clear that the Thai Chicken Pizza drives the most revenue, while the Classic Deluxe Pizza leads in orders. Peak sales occur during specific time slots, and Fridays are the busiest days, making them crucial for focusing marketing and sales efforts. The top 10 pizzas are key contributors to overall revenue, suggesting that promoting these items could further boost performance. 
 This analysis highlights **key trends** in **pizza sales, order timing, and customer behavior**. The data can be leveraged for:  
 ✅ **Optimizing marketing strategies**  
 ✅ **Improving inventory planning**  
@@ -78,11 +98,7 @@ This analysis highlights **key trends** in **pizza sales, order timing, and cust
 
 ---
 
-## 📌 How to Use This Repository?  
-💡 Use this GitHub repository to:  
-✔️ Analyze sales trends  
-✔️ Identify top-performing pizzas  
-✔️ Optimize sales strategy  
+
 
 📊 **Feel free to contribute insights or request additional data analysis!**  
 
